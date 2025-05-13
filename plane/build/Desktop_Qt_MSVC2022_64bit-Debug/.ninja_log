@@ -1,0 +1,23 @@
+# ninja log v5
+4	257	7688056827022616	plane_autogen/timestamp	4608b9758b50d28c
+4	257	7688056827022616	plane_autogen/mocs_compilation.cpp	4608b9758b50d28c
+4	257	7688056827022616	D:/C++/plane/build/Desktop_Qt_MSVC2022_64bit-Debug/plane_autogen/timestamp	4608b9758b50d28c
+261	1394	7688056838804414	CMakeFiles/plane.dir/plane_autogen/mocs_compilation.cpp.obj	e9ed1fc665f4c4fc
+4	257	7688056827022616	D:/C++/plane/build/Desktop_Qt_MSVC2022_64bit-Debug/plane_autogen/mocs_compilation.cpp	4608b9758b50d28c
+265	1388	7688056838754376	CMakeFiles/plane.dir/mainscene.cpp.obj	f78f15583ee09ef8
+263	1419	7688056839048806	CMakeFiles/plane.dir/main.cpp.obj	71efb8276567cd5c
+1419	1694	7688056841677664	plane.exe	7b8e30645303473
+12	308	7688070055946933	plane_autogen/timestamp	4608b9758b50d28c
+12	308	7688070055946933	plane_autogen/mocs_compilation.cpp	4608b9758b50d28c
+12	308	7688070055946933	D:/C++/plane/build/Desktop_Qt_MSVC2022_64bit-Debug/plane_autogen/timestamp	4608b9758b50d28c
+12	308	7688070055946933	D:/C++/plane/build/Desktop_Qt_MSVC2022_64bit-Debug/plane_autogen/mocs_compilation.cpp	4608b9758b50d28c
+312	2131	7688070074614661	CMakeFiles/plane.dir/main.cpp.obj	71efb8276567cd5c
+308	2133	7688070074639719	CMakeFiles/plane.dir/plane_autogen/mocs_compilation.cpp.obj	e9ed1fc665f4c4fc
+315	2134	7688070074639719	CMakeFiles/plane.dir/mainscene.cpp.obj	f78f15583ee09ef8
+2134	2309	7688070076045494	plane.exe	7b8e30645303473
+7	114	7688070392111634	plane_autogen/timestamp	4608b9758b50d28c
+7	114	7688070392111634	plane_autogen/mocs_compilation.cpp	4608b9758b50d28c
+7	114	7688070392111634	D:/C++/plane/build/Desktop_Qt_MSVC2022_64bit-Debug/plane_autogen/timestamp	4608b9758b50d28c
+7	114	7688070392111634	D:/C++/plane/build/Desktop_Qt_MSVC2022_64bit-Debug/plane_autogen/mocs_compilation.cpp	4608b9758b50d28c
+116	1686	7688070409546582	CMakeFiles/plane.dir/mainscene.cpp.obj	f78f15583ee09ef8
+1686	1835	7688070410727811	plane.exe	7b8e30645303473

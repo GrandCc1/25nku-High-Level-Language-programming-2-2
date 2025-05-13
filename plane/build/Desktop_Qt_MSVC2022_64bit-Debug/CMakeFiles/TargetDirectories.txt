@@ -1,0 +1,8 @@
+D:/C++/plane/build/Desktop_Qt_MSVC2022_64bit-Debug/CMakeFiles/plane.dir
+D:/C++/plane/build/Desktop_Qt_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/C++/plane/build/Desktop_Qt_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/C++/plane/build/Desktop_Qt_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
+D:/C++/plane/build/Desktop_Qt_MSVC2022_64bit-Debug/CMakeFiles/install.dir
+D:/C++/plane/build/Desktop_Qt_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
+D:/C++/plane/build/Desktop_Qt_MSVC2022_64bit-Debug/CMakeFiles/plane_autogen_timestamp_deps.dir
+D:/C++/plane/build/Desktop_Qt_MSVC2022_64bit-Debug/CMakeFiles/plane_autogen.dir
